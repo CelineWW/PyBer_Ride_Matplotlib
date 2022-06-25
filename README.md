@@ -24,7 +24,7 @@
   - Weekly fares of PyBer ride-sharing during 2019-01-01 through 2019-04-28 are shown as below: 
    ![PyBer_fare_summary](https://user-images.githubusercontent.com/105877888/175786703-9dfeaa62-e972-47bd-819d-8442fdcbbc86.png)
    
-     - Total fares of ride-sharing in Urban city is high above than suburban city and rural city. It is roughly 2-3 times of suburban city and around 10 times of rural city.
+    Total fares of ride-sharing in Urban city is high above than suburban city and rural city. It is roughly 2-3 times of suburban city and around 10 times of rural city.
 
 ## Summary
 Based on the results, 
