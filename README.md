@@ -1,6 +1,6 @@
 # PyBer_Analysis
 ## Oerview
-The purpose of new analysis of PyBer ride-sharing is discovering accessiblity and affordability of ride-sharing for each city type (urban, suburban, and rural cities) .
+The purpose of new analysis of PyBer ride-sharing is discovering accessiblity and affordability of ride-sharing for each city type (urban, suburban, and rural cities). So PyBer comanpany will have better overview of their past work and take appropriate further steps to seek better business opptuinities and expand their operations in all types of cities.
 
   - To get the summary of ride-sharing, the total number of rides, drivers and fares were aggregated from original large dataset. Based on these values, fares were converted to average fare per ride(cost to the rider), and average fare per driver(revenue to the driver) for different city types. A DataFrame was created for the summmary. 
   - New DataFrame was created to show the total fare amount for each date and city type. The dates were filtered to a specific range:  2019-01-01 through 2019-04-28. Then we totalized the daily fares to weekly fares by city type. The result of the total fare analysis for each week was visulized with a multiple-line chart.
