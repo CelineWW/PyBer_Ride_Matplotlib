@@ -22,7 +22,7 @@
 
   - Weekly fares of PyBer ride-sharing during 2019-01-01 through 2019-04-28 are sorted by city type. 
     
-    The result is shown in multiple-line graph as below: 
+    The result is shown in multiple-line chart as below: 
    ![PyBer_fare_summary](https://user-images.githubusercontent.com/105877888/175786703-9dfeaa62-e972-47bd-819d-8442fdcbbc86.png)
    
    
