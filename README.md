@@ -34,12 +34,10 @@ Based on the results, some recommendations can be proposed to the CEO of PyBer:
     1. PyBer or the city governments can take more effort on spreading their Green environmental protection concept to encourage people to share their rides. 
     2. From the view of average fare per ride, we can tell, the more rider engaged, the lower fare per ride would it cost.
     3. A bonus for ride-sharing is saving rider's time. Riders may relax or get prepared for the work instead of focusing on driving if they choose to share ridings. 
-  - Average fare per driver in urban city was approximately half times of in sururban city, and one third times of in rural city. Driver's avenue in urban city earn way less than in suburban city and rural city. The unsatisfying status might be a potential issue for the PyBer. On the other hand, we can see total drivers in urban city was 31, 5 times of rural city and suburban city respectively. Average fare per driver seems to be inversely proportional to total drivers. This indicated that drivers' service supply exceededs demand in urban city. PyBer should keep driver count to a minimun threshold for the ride-sharing requirement.
-  - 
-
- Overall, ride-sharing is more common in urban city, whereas barely taken in rural city. In the meantime, for either fare per ride or fare per driver, average fares in urban city, are much lower than suburban and rural city.     
- 
-  Total fares of ride-sharing in Urban city is high above than suburban city and rural city. It is roughly 2-3 times of suburban city and around 10 times of rural city.
+    
+  - Average fare per driver in urban city was approximately half times of in sururban city, and one third times of in rural city. Driver's avenue in urban city earn way less than in suburban city and rural city. The unsatisfying status might be a potential issue for the PyBer. On the other hand, we can see total drivers in urban city was 31, 5 times of rural city and suburban city respectively. Average fare per driver seems to be inversely proportional to total drivers. This indicated that drivers' service supply exceededs demand in urban city. PyBer should keep driver count to a minimun threshold for the ride-sharing needs.
+  
+  - A glance of total fare by city type graph shows that total fares of ride-sharing in Urban city is high above than suburban city and rural city. Specifically, it is roughly 2-3 times of suburban city and around 10 times of rural city. For PyBer, rural and suburban cities are undeveloped area to expand their business. Urban city contributed most of ride-sharing markert, which should be maintained with better quality of service. Such as, improving the PyBer app interactive interface, Optimizing ride-sharing plans for both the driver and the rider, Providing more information of each registered driver so as the rider can choose their preferences.
 
 
 
