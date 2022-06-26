@@ -31,7 +31,7 @@ The purpose of new analysis of PyBer ride-sharing is discovering accessibility a
 ## Summary
 Based on the results, some recommendations can be proposed to the CEO of PyBer:
   - Total rides in urban was 13 times of total rides in Rural city, and 2.6 times of total rides in suburban city. That means urbran city has high utilization ratio of PyBer ride-sharing. This might be thanks to the population of urban cities, which caused a higher demand of ride-sharing. But it also can be improved by advertisement injecting to suburban and rural cities. 
-    1. PyBer or the city governments can take more effort on spreading their Green environmental protection concept to encourage people to share their rides. 
+    1. PyBer or the city governments can take more efforts on spreading their Green environmental protection concept to encourage people to share their rides. 
     2. From the view of average fare per ride, we can tell, the more rider engaged, the lower fare per ride would it cost.
     3. A bonus for ride-sharing is saving rider's time. Riders may relax or get prepared for the work instead of focusing on driving if they choose to share ridings. 
     
