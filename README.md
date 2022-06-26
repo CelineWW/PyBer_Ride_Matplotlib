@@ -1,7 +1,9 @@
 # PyBer_Analysis
 ## Oerview
-  - Analyze ride-sharing data and create a summary by city type. 
-  - Analyze total weekly fares of ride-sharing by city type, and illustrated by a multiple-line graph.
+The purpose of new analysis of PyBer ride-sharing is discovering accessiblity and affordability of ride-sharing for each city type (urban, suburban, and rural cities) .
+
+  - To get the summary of ride-sharing, the total number of rides, drivers and fares were aggregated from original large dataset. Based on these values, fares were converted to average fare per ride(cost to the rider), and average fare per driver(revenue to the driver) for different city types. A DataFrame was created for the summmary. 
+  - New DataFrame was created to show the total fare amount for each date and city type. The dates were filtered to a specific range:  2019-01-01 through 2019-04-28. Then we totalized the daily fares to weekly fares by city type. The result of the total fare analysis for each week was visulized with a multiple-line chart.
 
 ## Resources and Toools
   - Resources: [city_data.csv](https://github.com/CelineWW/PyBer_Analysis/blob/main/Resources/city_data.csv), [ride_data.csv](https://github.com/CelineWW/PyBer_Analysis/blob/main/Resources/ride_data.csv)
@@ -20,9 +22,9 @@
      <img src="https://user-images.githubusercontent.com/105877888/175786677-178e831b-17ae-490c-b9e9-162ef04fa581.PNG">
   </p>
 
-  - Weekly fares of PyBer ride-sharing during 2019-01-01 through 2019-04-28 are sorted by city type. 
+  - Weekly fares of PyBer ride-sharing during 2019-01-01 through 2019-04-28 are sorted by city type.  
     
-    The result is shown in multiple-line chart as below: 
+    The result is illustrated by multiple-line chart as below: 
    ![PyBer_fare_summary](https://user-images.githubusercontent.com/105877888/175786703-9dfeaa62-e972-47bd-819d-8442fdcbbc86.png)
    
    
