@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# PyBer Ride Matplotlib
 ## Oerview
 The purpose of new analysis of PyBer ride-sharing is discovering accessibility and affordability of ride-sharing for each city type (urban, suburban, and rural cities). So PyBer company will have better overview of their past work and take more effective further steps to seek better business opportunities and expand their operations in all types of cities.
 
